@@ -31,3 +31,9 @@ p {
     text-align:center;
     font-family: 'Montserrat', sans-serif;
 }
+
+#image-gallery {
+    border: 1px solid rgba(185, 63, 8, 1);
+    border-radius: 15px;
+    padding: 5px;
+}
